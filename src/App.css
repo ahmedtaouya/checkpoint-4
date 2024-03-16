@@ -1,3 +1,8 @@
+.person-img{
+  display: flex;
+  height: 600px;
+  width: 600px;
+}
 .App {
   text-align: center;
 }
